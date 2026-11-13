@@ -7,18 +7,18 @@ namespace Tyuiu.MarkovaVO.Sprint3.Task0.V19
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт #2 | Выполнила: Маркова В. О | ПИНб-26-1";
+            Console.Title = "Спринт #3 | Выполнила: Маркова В. О | ПИНб-26-1";
             Console.WriteLine("*******************************************************************************");
-            Console.WriteLine("* Спринт #2                                                                   *");
-            Console.WriteLine("* Тема: Добавление к решению итоговых проектов по спринту                     *");
-            Console.WriteLine("* Задание #7                                                                  *");
-            Console.WriteLine("* Вариант #9                                                                  *");
+            Console.WriteLine("* Спринт #3                                                                   *");
+            Console.WriteLine("* Тема: операция цикла for                                                    *");
+            Console.WriteLine("* Задание #0                                                                  *");
+            Console.WriteLine("* Вариант #19                                                                 *");
             Console.WriteLine("* Выполнила: Маркова Варвара Олеговна | ПИНб-26-1                             *");
             Console.WriteLine("*******************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                    *");
-            Console.WriteLine("* Написать программу на C#, которая запрашивает исходные данные (вещественные *");
-            Console.WriteLine("* значения) и вычисляет, находится ли точка с координатами X,Y в              *");
-            Console.WriteLine("* заштрихованной области.                                                     *");
+            Console.WriteLine("* Написать программу используя цикл for, которая вычисляет сумму ряда по      *");
+            Console.WriteLine("* формуле                                                                     *");
+            Console.WriteLine("*                                                                             *");
             Console.WriteLine("*                                                                             *");
             Console.WriteLine("*******************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                            *");
