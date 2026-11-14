@@ -29,4 +29,9 @@
     <Project Path="Tyuiu.MarkovaVO.Sprint3.Task5.V25.Test/Tyuiu.MarkovaVO.Sprint3.Task5.V25.Test.csproj" />
     <Project Path="Tyuiu.MarkovaVO.Sprint3.Task5.V25/Tyuiu.MarkovaVO.Sprint3.Task5.V25.csproj" />
   </Folder>
+  <Folder Name="/Task6/">
+    <Project Path="Tyuiu.MarkovaVO.Sprint3.Task6.V22.Lib/Tyuiu.MarkovaVO.Sprint3.Task6.V22.Lib.csproj" />
+    <Project Path="Tyuiu.MarkovaVO.Sprint3.Task6.V22.Test/Tyuiu.MarkovaVO.Sprint3.Task6.V22.Test.csproj" />
+    <Project Path="Tyuiu.MarkovaVO.Sprint3.Task6.V22/Tyuiu.MarkovaVO.Sprint3.Task6.V22.csproj" />
+  </Folder>
 </Solution>

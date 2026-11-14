@@ -36,7 +36,7 @@ namespace Tyuiu.MarkovaVO.Sprint3.Task1.V17
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                                  *");
             Console.WriteLine("*******************************************************************************");
 
-            Console.WriteLine("Сумма ряда = " + ds.GetMultiplySeries(value, startValue, stopValue));
+            Console.WriteLine("Произведение ряда = " + ds.GetMultiplySeries(value, startValue, stopValue));
         }
     }
 }
