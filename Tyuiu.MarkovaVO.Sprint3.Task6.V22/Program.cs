@@ -33,7 +33,7 @@ namespace Tyuiu.MarkovaVO.Sprint3.Task6.V22
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                                  *");
             Console.WriteLine("*******************************************************************************");
 
-            Console.WriteLine("количество делителей = " + ds.GetSumTheDivisors(startValue, stopValue));
+            Console.WriteLine("Kоличество делителей = " + ds.GetSumTheDivisors(startValue, stopValue));
         }
     }
 }
